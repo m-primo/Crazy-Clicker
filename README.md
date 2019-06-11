@@ -6,7 +6,9 @@ Lite google chrome extension.
 
 Click anywhere, anytime. Count your clicks. Waste your bored time :).
 
-[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://link)
+## Get
+[<img src="https://lh3.googleusercontent.com/-FQrlVvl2FkU/XP8sk8S32nI/AAAAAAAAEfQ/41kL3qGbC78gLp9qIM51TC_9kQiiMtKnACLcBGAs/h101/ChromeWebStore_BadgeWBorder_v2_206x58%255B1%255D.png">](https://link.cooom)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
