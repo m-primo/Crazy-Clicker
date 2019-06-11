@@ -1,7 +1,8 @@
-# COMING AFTER 4 PM UTC
+# -------------------------------------
+# COMING TODAY AFTER 4 PM UTC
+# -------------------------------------
 
-
-# <img src="https://lh3.googleusercontent.com/-rYG03loZxsU/XP8r0gYMLlI/AAAAAAAAEfI/dnfN7ne3bZEzUeA4kIy9Rb5xTjl-6RILQCLcBGAs/s64/icon.png"> Crazy Clicker
+# <img src="https://lh3.googleusercontent.com/-rYG03loZxsU/XP8r0gYMLlI/AAAAAAAAEfI/dnfN7ne3bZEzUeA4kIy9Rb5xTjl-6RILQCLcBGAs/s64/icon.png"> crazyClicker
 Lite google chrome extension.
 
 Click anywhere, anytime. Count your clicks. Waste your bored time :).
