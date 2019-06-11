@@ -1,7 +1,9 @@
 # COMING AFTER 4 PM UTC
 
 
-# [<img src="https://lh3.googleusercontent.com/-rYG03loZxsU/XP8r0gYMLlI/AAAAAAAAEfI/dnfN7ne3bZEzUeA4kIy9Rb5xTjl-6RILQCLcBGAs/s64/icon.png">]() Crazy Clicker
+# <img src="https://lh3.googleusercontent.com/-rYG03loZxsU/XP8r0gYMLlI/AAAAAAAAEfI/dnfN7ne3bZEzUeA4kIy9Rb5xTjl-6RILQCLcBGAs/s64/icon.png"> Crazy Clicker
+Lite google chrome extension.
+
 Click anywhere, anytime. Count your clicks. Waste your bored time :).
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://link)
