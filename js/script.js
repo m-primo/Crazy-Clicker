@@ -1,4 +1,4 @@
-var crazyClicker = {
+const crazyClicker = {
     counter: 0,
     get Reset() {
         this.counter = 0;
@@ -21,14 +21,11 @@ var crazyClicker = {
 };
 
 window.onload = function() {
-    
     document.getElementById('clickBTN').onclick = function() {
         crazyClicker.Click;
-    }
-
+    };
     document.getElementById('resetBTN').onclick = function() {
         crazyClicker.Reset;
         crazyClicker.Show;
-    }
-
+    };
 };

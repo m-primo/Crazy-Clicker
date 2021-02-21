@@ -27,6 +27,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Developed by
-[Primo](https://mp-primo.blogspot.com/primo)
